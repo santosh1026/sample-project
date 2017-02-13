@@ -119,7 +119,7 @@
    <snapshotRepository>
 	<id>snapshots</id>
 	<name>snapshots</name>
-	   <url>http://54.214.126.70:8081/repository/maven-snapshots</url>
+	   <url>http://54.214.126.70:8081/repository/maven-snapshots/</url>
 	  
    </snapshotRepository>
 	
